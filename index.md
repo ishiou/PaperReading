@@ -1,7 +1,18 @@
 ## Paper Reading of Machine Learning and Deep Learning
 
 大致整理一些覺得不錯的paper，順便附上讀後簡略心得與摘要。
-例如[這篇](CNN_HbA1c_JBHI.pdf) 
+
+## General Introduction
+- [Deep EHR: A Survey of Recent Advances in Deep Learning Techniques for Electronic Health Record (EHR) Analysis](Deep_EHR.pdf), Journal of Biomedical Health Informatics, 2017. 
+```markdown
+基礎深度學習演算法的介紹，架構完整。
+```
+
+- [](DeepHealthcare.pdf)
+
+## Application 
+- [A Deep Neural Network Application for Improved
+Prediction of HbA1c in Type 1 Diabetes](CNN_HbA1c_JBHI.pdf), JBHI, 2020
 
 You can use the [editor on GitHub](https://github.com/ishiou/PaperReading/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
