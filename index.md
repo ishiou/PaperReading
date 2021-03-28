@@ -1,5 +1,8 @@
 ## Paper Reading of Machine Learning and Deep Learning
 
+大致整理一些覺得不錯的paper，順便附上讀後簡略心得與摘要。
+例如[這篇](CNN_HbA1c_JBHI.pdf) 
+
 You can use the [editor on GitHub](https://github.com/ishiou/PaperReading/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
