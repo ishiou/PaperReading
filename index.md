@@ -3,15 +3,15 @@
 大致整理一些覺得不錯的paper，順便附上讀後簡略心得與摘要。
 
 ## General Introduction
-- [Deep EHR: A Survey of Recent Advances in Deep Learning Techniques for Electronic Health Record (EHR) Analysis](Deep_EHR.pdf), IEEE Journal of Biomedical Health Informatics, 2017. 
+- [Deep EHR: A Survey of Recent Advances in Deep Learning Techniques for Electronic Health Record (EHR) Analysis](Intro/Deep_EHR.pdf), IEEE Journal of Biomedical Health Informatics, 2017. 
 ```markdown
 基礎深度學習演算法的介紹，架構完整。
 ```
-- [Opportunities and challenges in developing deep learning models using electronic health records data: a systematic review](EHRreview.pdf),Journal of the American Medical Informatics Association, 2018.
+- [Opportunities and challenges in developing deep learning models using electronic health records data: a systematic review](Intro/EHRreview.pdf),Journal of the American Medical Informatics Association, 2018.
 ```markdown
 基礎深度學習演算法的介紹，架構完整。
 ```
-- [Deep learning for healthcare: review, opportunities and challenges](DeepHealthcare.pdf), Briefings in Bioinformatics, 2018.
+- [Deep learning for healthcare: review, opportunities and challenges](Intro/DeepHealthcare.pdf), Briefings in Bioinformatics, 2018.
 ```markdown
 看完有點久....只記得還不錯XD
 ```
