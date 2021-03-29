@@ -31,6 +31,11 @@
 簡易的representation＋RNN time serious資料的處理。
 ```
 
+## Explainable AI
+- [Explainable machine-learning predictions for the prevention of hypoxaemia during surgery](Explainable/2018_ExplainableMachinLearning.pdf), Nature Biomedical Engineering, 2018.
+```markdown
+解釋性模型的範例
+```
 
 
 
