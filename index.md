@@ -7,7 +7,7 @@
 ```markdown
 基礎深度學習演算法的介紹，架構完整。
 ```
-- [Opportunities and challenges in developing deep learning models using electronic health records data: a systematic review](Intro/EHRreview.pdf),Journal of the American Medical Informatics Association, 2018.
+- [Opportunities and challenges in developing deep learning models using electronic health records data: a systematic review](Intro/EHRreview.pdf), Journal of the American Medical Informatics Association, 2018.
 ```markdown
 基礎深度學習演算法的介紹，架構完整。
 ```
@@ -19,6 +19,10 @@
 
 ## Application 
 - [A Deep Neural Network Application for Improved Prediction of HbA1c in Type 1 Diabetes](CNN_HbA1c_JBHI.pdf), IEEE Journal of Biomedical Health Informatics, 2020.
+- [Using recurrent neural network models for early detection of heart failure onset](Usingrecurrentneuralnetworkmodelsforearlydetectionofheartfailureonset_2017.pdf), Journal of the American Medical Informatics Association, 2017.
+```markdown
+簡易的representation＋RNN time serious資料的處理。
+```
 
 
 
