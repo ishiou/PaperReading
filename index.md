@@ -18,8 +18,15 @@
 
 
 ## Application 
-- [A Deep Neural Network Application for Improved Prediction of HbA1c in Type 1 Diabetes](CNN_HbA1c_JBHI.pdf), IEEE Journal of Biomedical Health Informatics, 2020.
-- [Using recurrent neural network models for early detection of heart failure onset](Usingrecurrentneuralnetworkmodelsforearlydetectionofheartfailureonset_2017.pdf), Journal of the American Medical Informatics Association, 2017.
+- [Hospital Admission Location Prediction via Deep Interpretable Networks for the Year-Round Improvement of Emergency Patient Care](Application/2021_HospitalAdmission.pdf), IEEE Journal of Biomedical Health Informatics, 2020.
+```markdown
+架構完整，後面驗證更完整，interpretation的部分用一層logisticregression處理，值得思考。
+```
+- [A Deep Neural Network Application for Improved Prediction of HbA1c in Type 1 Diabetes](Application/2020_CNN_HbA1c_JBHI.pdf), IEEE Journal of Biomedical Health Informatics, 2020.
+```markdown
+進階CNN處理，預測連續數值HbA1c。
+```
+- [Using recurrent neural network models for early detection of heart failure onset](Application/2017_RNN_HeartFailureOnset_2017.pdf), Journal of the American Medical Informatics Association, 2017.
 ```markdown
 簡易的representation＋RNN time serious資料的處理。
 ```
