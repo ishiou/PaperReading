@@ -37,11 +37,10 @@
 解釋性模型的範例
 ```
 ### 已開發的套件
-- 'SHAP': [A Unified Approach to Interpreting Model Predictions](https://arxiv.org/abs/1705.07874), arXiv.org, 2017. [GitHub](https://github.com/slundberg/shap)
-- 'LIME': ["Why Should I Trust You?": Explaining the Predictions of Any Classifier](https://arxiv.org/abs/1602.04938), arXiv.org, 2016. [GitHub](https://github.com/marcotcr/lime)
-- 'InterpretML':[InterpretML: A Unified Framework for Machine Learning Interpretability](https://arxiv.org/abs/1909.09223), arXiv.org, 2019. [GitHub](https://github.com/interpretml/interpret)
-- 'CAPTUM':[Captum: A unified and generic model interpretability library for PyTorch](https://arxiv.org/abs/2009.07896), arXiv.org, 2020. [GitHub](https://github.com/pytorch/captum)
-
+- `SHAP` [A Unified Approach to Interpreting Model Predictions](https://arxiv.org/abs/1705.07874), arXiv.org, 2017. [GitHub](https://github.com/slundberg/shap)
+- `LIME` ["Why Should I Trust You?": Explaining the Predictions of Any Classifier](https://arxiv.org/abs/1602.04938), arXiv.org, 2016. [GitHub](https://github.com/marcotcr/lime)
+- `InterpretML` [InterpretML: A Unified Framework for Machine Learning Interpretability](https://arxiv.org/abs/1909.09223), arXiv.org, 2019. [GitHub](https://github.com/interpretml/interpret)
+- `CAPTUM` [Captum: A unified and generic model interpretability library for PyTorch](https://arxiv.org/abs/2009.07896), arXiv.org, 2020. [GitHub](https://github.com/pytorch/captum)
 ### 其他方法
 - [Explaining nonlinear classification decisions with deep Taylor decomposition](Explainable/2017_ExplainingNonlinearClassification.pdf), Pattern Recognition, 2017. 
 
