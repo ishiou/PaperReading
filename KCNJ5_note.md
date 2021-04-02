@@ -10,8 +10,8 @@
 - 其中有5個欄位的數值所有病人都一樣，確認暫不納入：'HD_DRIAliskiren_pre', 'MI', 'COPD', 'ChronicGlomerulonephritis', 'CT_check'
 
 - 加上2個運算後的欄位：
-   -'p_testdate-p'-'birthdate': 年齡
-   -'laparoscopic_Date'-'birthdate':開刀年齡
+      - 'p_testdate-p'-'birthdate': 年齡
+      - 'laparoscopic_Date'-'birthdate':開刀年齡
 
 
 - 缺少的資料當作沒有進行該檢查，需要把缺直都補上。
