@@ -46,7 +46,7 @@
 
 
 
-MyCV[MyCV.html]
+[MyCV](MyCV.html)
 
 
 
